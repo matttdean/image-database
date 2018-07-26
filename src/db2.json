@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+   "name": "Leanne Graham",
+    "username": "Bret",
+    "tags": "green doctor this over",
+    "img": "https://s3.us-east-2.amazonaws.com/hu-test/12554_combo.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "tags": "green doctor this over",
+    "img": "https://s3.us-east-2.amazonaws.com/hu-test/12572_custom.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "tags": "red doctor that over",
+    "img": "https://s3.us-east-2.amazonaws.com/hu-test/12573_custom.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "tags": "green doctor this over",
+    "img": "https://s3.us-east-2.amazonaws.com/hu-test/12637_custom.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "tags":"green doctor this over",
+    "img": "https://s3.us-east-2.amazonaws.com/hu-test/12643_custom.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "tags": "yellow doctor that over",
+    "img": "https://s3.us-east-2.amazonaws.com/hu-test/12646_custom.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "tags": "green doctor this over",
+    "img": "https://s3.us-east-2.amazonaws.com/hu-test/12637_custom.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "tags": "green student this over",
+    "img": "https://s3.us-east-2.amazonaws.com/hu-test/12637_custom.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "tags": "blue doctor this over",
+    "img": "https://s3.us-east-2.amazonaws.com/hu-test/12637_custom.jpg"
+  },
+  {
+    "id": 10,
+   "name": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "tags": "green this over",
+    "img": "https://s3.us-east-2.amazonaws.com/hu-test/12637_custom.jpg"
+  },
+  {
+    "id": 11332246,
+    "name": "Sarah Dean",
+    "username": "cuddlebug",
+    "tags": "green doctor this over",
+    "img": "https://s3.us-east-2.amazonaws.com/hu-test/12573_custom.jpg"
+  },
+  {
+    "id": "109821324623492",
+    "name": "Matt Dean",
+    "username": "matttdean",
+    "tags": "blue doctor this over",
+    "img": "https://s3.us-east-2.amazonaws.com/hu-test/12637_custom.jpg"
+  }
+]

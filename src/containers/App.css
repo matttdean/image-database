@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'DSEG14 Classic-Bold Italic';
+font-style: normal;
+font-weight: normal;
+src: local('DSEG14 Classic-Bold Italic'), url('DSEG14Classic-BoldItalic.woff') format('woff');
+}
+
+h1 {
+	font-family: 'DSEG14 Classic-Bold Italic';
+	color: #A4FFEB;
+	
+}
